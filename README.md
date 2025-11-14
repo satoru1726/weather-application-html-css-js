@@ -1,4 +1,4 @@
-## Weather App — HTML | CSS | JavaScript
+# Weather App — HTML | CSS | JavaScript
 a clean and responsive Weather Application that fetches real-time weather updates using a public API.
 Built with HTML, CSS, and JavaScript — simple, fast, and beginner-friendly yet portfolio-ready.
 
@@ -21,14 +21,14 @@ Built with HTML, CSS, and JavaScript — simple, fast, and beginner-friendly yet
 ![App Preview](./weatherApp-assets/output-preview.png)
 
 ## setup & installation
-1. clone the repository
-git clone <https://github.com/satoru1726/weather-application-html-css-js.git>
-2. open the project folder
-cd weather-app-html-css-javaScript
-3. Run the app
-Just open index.html with any web browsers or Use a live server (recommended)
+- clone the repository
+``` git clone <https://github.com/satoru1726/weather-application-html-css-js.git> ```
+- open the project folder
+``` cd weather-app-html-css-javaScript ```
+- Run the app
+- just open index.html with any web browsers or Use a live server (recommended)
 
-## author info.
+## author
 **_Jayanth A R_**
 <br>
 aspiring Full Stack Dev.
@@ -37,5 +37,5 @@ mail: <jayanthcrpar@gmail.com>
 <br>
 linkedIn: <www.linkedin.com/in/jayanth-a-r-254232323>
 
-## license info.
+## license
 this project is open-source and available under the MIT License.
