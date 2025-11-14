@@ -17,7 +17,7 @@ Built with HTML, CSS, and JavaScript — simple, fast, and beginner-friendly yet
 - openWeather API
 
 ## preview
-# expected/actual output
+### expected/actual output
 ![App Preview](./weatherApp-assets/output-preview.png)
 
 ## setup & installation
@@ -26,9 +26,7 @@ git clone <https://github.com/satoru1726/weather-application-html-css-js.git>
 2. open the project folder
 cd weather-app-html-css-javaScript
 3. Run the app
-Just open index.html with any web browsers <br>
-or <br>
-Use a live server (recommended)
+Just open index.html with any web browsers or Use a live server (recommended)
 
 ## author info.
 **_Jayanth A R_**
