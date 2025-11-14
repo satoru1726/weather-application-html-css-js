@@ -15,11 +15,7 @@ Built with HTML, CSS, and JavaScript — simple, fast, and beginner-friendly yet
 - css3
 - javaScript (Vanilla JS)
 - openWeather API
-
-## preview
-### expected/actual output
-![App Preview](./assets/output-preview.png)
-
+  
 ## setup & installation
 - clone the repository
 ``` git clone <https://github.com/satoru1726/weather-application-html-css-js.git> ```
