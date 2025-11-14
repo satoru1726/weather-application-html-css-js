@@ -3,12 +3,12 @@ a clean and responsive Weather Application that fetches real-time weather update
 Built with HTML, CSS, and JavaScript — simple, fast, and beginner-friendly yet portfolio-ready.
 
 ## features
--search by city name
--real-time temperature, humidity, wind speed
--location-based weather updates (if implemented)
--fully responsive UI
--handles invalid city errors
--smooth UI & clean component layout
+- search by city name
+- real-time temperature, humidity, wind speed
+- location-based weather updates (if implemented)
+- fully responsive UI
+- handles invalid city errors
+- smooth UI & clean component layout
 
 ## tech stack
 - html5
