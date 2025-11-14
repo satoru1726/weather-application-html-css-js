@@ -25,7 +25,6 @@ Built with HTML, CSS, and JavaScript — simple, fast, and beginner-friendly yet
 ``` git clone <https://github.com/satoru1726/weather-application-html-css-js.git> ```
 - open the project folder
 ``` cd weather-app-html-css-javaScript ```
-- Run the app
 - just open index.html with any web browsers or Use a live server (recommended)
 
 ## author
