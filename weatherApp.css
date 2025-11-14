@@ -1,0 +1,88 @@
+body {
+margin: 0px;
+padding: 0px;
+font-family: Lucida Console, Arial;
+background-color: rgb(230, 230, 230);
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+.container {
+display: flex;
+flex-direction: row;
+justify-content: center;
+margin: 20px;
+}
+
+.inputCity, .subButton {
+padding: 16px;
+margin-bottom: 12px;
+font-size: 18px;
+font-weight: bold;
+}
+
+.inputCity {
+border: none;
+outline: none;
+margin-right: 20px;
+}
+
+.subButton {
+border: none;
+background-color: rgb(72, 216, 162);
+color: white;
+transition: opacity 0.35s;
+}
+
+.subButton:hover {
+opacity: 0.65;
+}
+
+.card {
+display: flex;
+flex-direction: column;
+align-items: center;
+font-size: 20px;
+font-weight: bold;
+background: linear-gradient(180deg, rgb(128, 255, 0), rgb(0, 120, 255));
+min-width: 430px;
+transition: box-shadow 0.35s;
+border-radius: 10px;
+
+}
+
+.card:hover {
+box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.25);
+/* backdrop-filter: blur(8px); */
+}
+
+.error {
+font-size: 24px;
+font-weight: bold;
+}
+
+.city {
+font-size: 32px;
+font-weight: bold;
+}
+
+.temp {
+font-weight: bold;
+font-size: 28px;
+}
+
+.humidity {
+font-weight: bold;
+font-size: 28px;
+}
+
+.windSpeed {
+font-weight: bold;
+font-size: 28px;
+}
+
+.desc {
+font-weight: bold;
+font-style: italic;
+}
