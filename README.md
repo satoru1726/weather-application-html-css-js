@@ -18,7 +18,7 @@ Built with HTML, CSS, and JavaScript — simple, fast, and beginner-friendly yet
 
 ## preview
 ### expected/actual output
-![App Preview](./weatherApp-assets/output-preview.png)
+![App Preview](./assets/output-preview.png)
 
 ## setup & installation
 - clone the repository
