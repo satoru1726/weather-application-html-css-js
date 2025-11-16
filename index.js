@@ -1,4 +1,4 @@
-const apiKey = "51bc72cb2ad8a4826789282fd6966c4e";
+const apiKey = "get-your-own-api-from-OpenWeatherMap[just-login/create-free-account-then-generate-your-own-API-key]";
 
 const inputCity = document.querySelector(".inputCity");
 const cardDisply = document.querySelector(".card");
