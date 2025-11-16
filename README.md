@@ -28,9 +28,9 @@ Built with HTML, CSS, and JavaScript — simple, fast, and beginner-friendly yet
 <br>
 aspiring Full Stack Dev.
 <br>
-mail: <jayanthcrpar@gmail.com>
+mail: jayanthcrpar@gmail.com
 <br>
-linkedIn: <www.linkedin.com/in/jayanth-a-r-254232323>
+linkedIn: www.linkedin.com/in/jayanth-a-r-254232323
 
 ## license
 this project is open-source and available under the MIT License.
